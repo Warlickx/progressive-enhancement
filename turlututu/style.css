@@ -1,7 +1,17 @@
-body {
-background-color: white;
-color: white
+.nav ul {
+margin: auto;
+padding: auto;
+background: #333333;
+list-style: none;
 }
 
-bluebox {
+.nav a{
+padding: lem;
+display: block;
+text-align: center;
+text-decoration: none;
+}
 
+.nav .menu {
+display: flex;
+flex-direction: row;}
