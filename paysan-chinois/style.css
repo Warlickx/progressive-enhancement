@@ -1,18 +1,21 @@
 body {
-	background-color: lightblue;
+	background-color: white;
+	
 }
 
 h1 {
-	color: navy;
+	color: #333333;
 	margin-left: 20px;
 }
 
 table, th, td {
-border: 1px solid black;
+	border: 1px solid black;
 }
 
 p {
-font-size: 12px;
-font-family: Old Times, serif;
-color: #333333;
+	font-size: 20px;
+	line-height: 2;
+	font-family: Old Times, serif;
+	color: #333333;
 }
+
