@@ -1,6 +1,56 @@
 body {
 	background-color: white;
-	
+	width: 90%;
+	border: 1px solid #333333;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+        font-size: 20px;
+        line-height: 2;
+        font-family: Old Times, serif;
+        color: #333333;
+}
+
+blockquote {
+	background: #E8E8E8;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 160%;
+	border-left: 3px solid brown; 
+}
+
+q {
+	background: #E8E8E8;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	font-style: italic;
+}
+
+.BIEN {
+	color: blue;
+}
+
+.MAL {
+	color: red;
+}
+
+.PEC {
+	border-left: 3px solid green;
+}
+
+.PAYSAN {
+	border-left: 3px solid navy;
+}
+
+cite {
+	width: 50px;
+	font-size: 12px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h1 {
@@ -11,11 +61,3 @@ h1 {
 table, th, td {
 	border: 1px solid black;
 }
-
-p {
-	font-size: 20px;
-	line-height: 2;
-	font-family: Old Times, serif;
-	color: #333333;
-}
-
